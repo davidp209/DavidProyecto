@@ -19,7 +19,7 @@ Aquí encontrarás los artefactos más importantes del proyecto.
 Este es el informe final generado automáticamente por el pipeline, con el análisis de satisfacción (CSAT) por área y el resumen de calidad de datos.
 
 > [!TIP] Ver el Reporte de KPIs
-> **Ir al reporte → [[reportes/reporte-UT1|Reporte de Satisfacción (Encuestas)]]**
+> **Ir al reporte → [[reporte/reporte |Reporte de Satisfacción (Encuestas)]]**
 
 ---
 
