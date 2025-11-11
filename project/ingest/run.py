@@ -60,6 +60,8 @@ else:
     df_encuestas = pd.DataFrame(columns=[
         "id_respuesta","fecha","edad","area","satisfaccion","comentario","_source_file","_ingest_ts"
     ])
+    
+df_encuestas = df_encuestas.drop_duplicates(subset=['id_respuesta'], keep='last')
 
 # --------------------------
 # 2) Limpieza y validación
